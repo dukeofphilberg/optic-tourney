@@ -1,5 +1,5 @@
-optic-tourney
-=============
+Optic Tournaments
+=================
 
 Optic Tournaments is a gaming tournament site for friends, they will be able to compete in a variety of games, for example; 
 
